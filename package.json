@@ -1,0 +1,15 @@
+{
+  "name": "parallelio-meta",
+  "version": "0.1.0",
+  "description": "Tasks to manage Parallelio's many repositories",
+  "main": "index.js",
+  "dependencies": {
+    "git-run": "^0.5.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
