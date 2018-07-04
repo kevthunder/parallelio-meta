@@ -4,11 +4,17 @@
   "description": "Tasks to manage Parallelio's many repositories",
   "main": "index.js",
   "dependencies": {
-    "git-run": "^0.5.5"
+    "git-run": "^0.5.5",
+    "gulp": "^3.9.1",
+    "strip-ansi": "^4.0.0"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "check": "gulp"
+  },
+  "bin": {
+    "parallelio-meta": "./bin/parallelio-meta"
   },
   "author": "",
   "license": "ISC"
