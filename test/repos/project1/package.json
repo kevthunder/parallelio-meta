@@ -1,0 +1,16 @@
+{
+  "name": "parallelio-meta-test1",
+  "version": "0.1.1",
+  "description": "test project for parallelio-meta",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "parallelio-meta": "file:../../.."
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "postversion": "parallelio-meta"
+  },
+  "author": "",
+  "license": "ISC"
+}
