@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "parallelio": "git@github.com:kevthunder/parallelio.git",
+    "parallelio-tiles": "git@github.com:kevthunder/parallelio-tiles.git",
+    "spark-starter": "git@github.com:kevthunder/spark-starter.git",
+    "parallelio-dom": "git@github.com:kevthunder/parallelio-dom.git"
+  }
+}

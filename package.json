@@ -4,11 +4,7 @@
   "description": "Tasks to manage Parallelio's many repositories",
   "main": "index.js",
   "dependencies": {
-    "git-run": "^0.5.5",
-    "gulp": "^3.9.1",
-    "liftoff": "^2.5.0",
-    "minimist": "^1.2.0",
-    "strip-ansi": "^4.0.0"
+    "meta-npm": "0.0.28"
   },
   "devDependencies": {},
   "scripts": {
